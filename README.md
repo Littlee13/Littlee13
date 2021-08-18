@@ -4,5 +4,5 @@
 
 - I'm from Brazil
 - Programing and Learning
-- Trying to do the Best
+- Wake up
 - Random Things
