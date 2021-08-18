@@ -6,3 +6,4 @@
 - Programing and Learning
 - Wake up
 - Random Things
+- The Game
