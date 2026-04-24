@@ -1,7 +1,7 @@
 ### Hi :)
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Littlee13&show_icons=true&theme=radical" />
-![C](https://vercel.app)
+![Top Langs](https://vercel.app)
 </div>
 
 - Brazil
